@@ -1,7 +1,3 @@
-Sure, here's the updated version:
-
----
-
 # GPT Architecture
 
 ## Transformer Architecture
