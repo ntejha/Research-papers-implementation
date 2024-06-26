@@ -64,6 +64,6 @@ GPT operates similarly to the Transformer architecture, but the encoder part is 
 - Probability Sampling Generation
 - Compare Targets to Outputs -> Backpropagate
 
-The dataset used for this architecture is OpenWebText.
+The dataset used for this architecture is [OpenWebText](https://skylion007.github.io/OpenWebTextCorpus/).
 
 Thanks to Elliotcodes for giving me a clear insight on how this architecture worked.
